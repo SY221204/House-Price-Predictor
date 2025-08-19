@@ -72,36 +72,36 @@ Predicted House Price = ₹ 2.45 Crore
 
 ## How to Run the Project
 
-**Option 1 – Run as Python Script
-      *1. Clone this repository:
+Option 1 – Run as Python Script
+      1. Clone this repository:
     
           git clone https://github.com/your-username/House-Price-Predictor.git
           cd House-Price-Predictor
 
-      *2. Install dependencies:
+   2. Install dependencies:
 
           pip install pandas scikit-learn
 
-      *3. Run the project:
+   3. Run the project:
       
           python house_price_predictor.py
 
-*You will be asked to enter: Area, Bedrooms, Location
-*The model will predict the house price in Crores.
+You will be asked to enter: Area, Bedrooms, Location
+The model will predict the house price in Crores.
 
 
- **Option 2 – Run with Streamlit (Interactive Web App)
+ Option 2 – Run with Streamlit (Interactive Web App)
 
-       *1. Install Streamlit:
+  1. Install Streamlit:
 
            pip install streamlit pandas scikit-learn
 
 
-       *2. Run the app:
+   2. Run the app:
 
            streamlit run house_price_streamlit.py
 
- **Option 3 - Running in VS Code
+ **Option 3 - Running in VS Code**
 
  *1. Open VS Code
 
