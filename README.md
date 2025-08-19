@@ -114,11 +114,11 @@ The model will predict the house price in Crores.
 
    5. Run Python Script
    
-        python house_price_predictor.py
+          python house_price_predictor.py
 
    6. Run Streamlit App
 
-        streamlit run house_price_streamlit.py
+          streamlit run house_price_streamlit.py
 
 
 6. For the script → enter details in terminal and get house price.
