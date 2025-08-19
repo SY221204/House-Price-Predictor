@@ -19,7 +19,7 @@ This project builds a **predictive regression model** to automate the process an
 
   * Area (sq. ft)
   * Bedrooms
-  * Location (4 metro cities).
+  * Location (4 cities).
 * Evaluate performance using **MSE & R² Score**.
 * Predict price for **new house details** entered by the user.
 
